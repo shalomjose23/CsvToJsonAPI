@@ -1,0 +1,6 @@
+name.firstName,name.lastName,age,address.line1,address.city,address.state,gender
+Shalom,Jose,24,MUM-217,Mumbai,Maharashtra,male
+Salvius,Maria,26,CHN-128,Chennai,Tamil Nadu,female
+Saurabh,Dalvi,40,THN-070,Thane,Maharashtra,male
+Gavin,D'souza,35, GOA-513,Panaji,Goa,male
+Jennifer,Fernandes,18,GOA-277,Panaji,Goa,female
